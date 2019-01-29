@@ -1,3 +1,4 @@
+#Question2-Reverse each words in sentence without using library function.
 list=[]
 N=""
 String=str(input("Enter the String Value:"))
