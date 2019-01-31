@@ -4,7 +4,6 @@ def revstr():
     a=""
     count=1
     strg=str(input("enter the string:"))
-    le=len(strg)
     for i in (strg):
         if(i!=" "):
             a=a+i
